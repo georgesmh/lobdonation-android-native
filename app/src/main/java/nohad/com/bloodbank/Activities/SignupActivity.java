@@ -39,6 +39,7 @@ import java.util.List;
 import java.util.Locale;
 
 import microsoft.aspnet.signalr.client.Platform;
+import microsoft.aspnet.signalr.client.http.android.AndroidPlatformComponent;
 import nohad.com.bloodbank.Blood_Type;
 import nohad.com.bloodbank.City;
 import nohad.com.bloodbank.Donor;
