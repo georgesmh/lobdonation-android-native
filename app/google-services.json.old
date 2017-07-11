@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "496484120868",
+    "firebase_url": "https://lobdonation.firebaseio.com",
+    "project_id": "lobdonation",
+    "storage_bucket": "lobdonation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496484120868:android:13a561690a123d3d",
+        "android_client_info": {
+          "package_name": "nohad.com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496484120868-2r64r93d4840d7mf60ahfli14vt3bsgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-1JpAVqxSxaViwffShkP9VPUErC97Gco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
