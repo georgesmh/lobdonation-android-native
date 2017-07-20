@@ -86,7 +86,7 @@ public class SignalRService extends Service {
             }
         };
 
-        String serverUrl = "http://192.168.1.100";
+        String serverUrl = "http://192.168.1.102:4891";
         mHubConnection = new HubConnection(serverUrl);
         mHubConnection.setCredentials(credentials);
         String SERVER_HUB_CHAT = "ChatHub";

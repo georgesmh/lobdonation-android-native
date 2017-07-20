@@ -38,6 +38,12 @@
             </intent-filter>
         </service>
 
+        <service android:name=".SignalRService"
+            android:enabled="true"
+            android:exported="true">
+        </service>
+
+
     </application>
 
 </manifest>
